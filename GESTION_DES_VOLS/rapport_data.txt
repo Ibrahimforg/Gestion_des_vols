@@ -1,0 +1,31 @@
+
+========= RAPPORT DES VOLS =========
+
+- Vol : A228
+  Places restantes : 2
+  Prix : 100000.000000 FCFA
+
+- Vol : B123
+  Places restantes : 5
+  Prix : 350000.000000 FCFA
+
+- Vol : A111
+  Places restantes : 0
+  Prix : 200000.000000 FCFA
+
+- Vol : A111
+  Places restantes : 4
+  Prix : 25000.000000 FCFA
+
+- Vol : B123
+  Places restantes : 3
+  Prix : 300000.000000 FCFA
+
+
+========= RÉSERVATIONS =========
+
+- Vol : A228, Passeport : f202501, Statut : Confirmée
+- Vol : A228, Passeport : i202502, Statut : Confirmée
+- Vol : B123, Passeport : h202503, Statut : Confirmée
+- Vol : A111, Passeport : f202501, Statut : Confirmée
+- Vol : A111, Passeport : i202502, Statut : Confirmée
