@@ -75,7 +75,7 @@ Le projet peut être déployé et partagé via GitHub pour permettre une lecture
 - Fichiers `.h` et `.cpp` par classe
 - `README.md`
 - `Rapport_Projet_GestionDeVols.pdf`
-- Exécutable compilé (Windows ou Linux)
+- Exécutable compilé (Windows): 
 - `data.txt` et `rapport_data.txt` de test
 
 ---
